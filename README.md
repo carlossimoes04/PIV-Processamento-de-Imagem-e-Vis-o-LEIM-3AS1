@@ -10,7 +10,7 @@ Este repositório contém os projetos projetos/exercícios desenvolvidos no âmb
 ---
 
 ## Notas dos trabalhos:
-TP1: 19,6/20
+TP1: 19,6/20  
 TP2: 17,2/20
 
 ---
